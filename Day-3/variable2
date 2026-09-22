@@ -1,0 +1,37 @@
+a=10
+a=20
+a=30
+print(a)
+
+#variable values dynamically changed
+
+x=10,20,30
+print(x)
+
+'''
+---->A single variable can hold te multiple values
+---->Multiple values can hold by te single variables 
+
+
+'''
+m,n,p
+print(m,n,p)
+
+
+'''
+---->multiple variables cannot hold the single value 
+---->sile value cannot be holded by multiple variables
+'''
+
+#valid variables
+
+#write a student data progress 
+
+student_name "Aasra"
+print(type(student_name))
+
+student_age=18
+print(type(student_age))
+
+student_branch=AIML 
+print(type(student_branch))
